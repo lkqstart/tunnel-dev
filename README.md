@@ -8,16 +8,10 @@
 - 进阶使用视频教程：[进阶教程](https://www.youtube.com/watch?v=JDAQYD6bvEM) 折腾自己的优选IP
 - 高级使用视频教程：[高级教程](https://www.youtube.com/watch?v=lQ2Evd_xPRY) 成为折腾的高手
 
-- AM科技官网：[https://am.809098.xyz](官网)
-- YouTube：[https://youtube.com/@AM_CLUB](AM科技)
-- Telegram：[https://t.me/AM_CLUBS](AM_CLUBS)
-- Github：[https://github.com/ansoncloud8](ansoncloud8)
-- VLESS订阅信息：[节点订阅信息](https://worker.amcloud.filegear-sg.me/866853eb-5293-4f09-bf00-e13eb237c655)
 
 
 # 免责声明
 
-本免责声明适用于 GitHub 上的 “am-tunnel” 项目（以下简称“该项目”），项目链接为：https://github.com/ansoncloud8/am-tunnel
 
 ### 用途
 该项目被设计和开发仅供学习、研究和安全测试目的。它旨在为安全研究者、学术界人士和技术爱好者提供一个了解和实践网络通信技术的工具。
@@ -112,8 +106,6 @@
 | ADDRESSESAPI | https://raw.githubusercontent.com/ansoncloud8/am-tunnel/dev/ipv4.txt |×| 备选作为优选IP的自己库) | [Video](https://youtu.be/9WoMNrxV0HE) |  |
 
 
-## Star 星星走起
-[![Stargazers over time](https://starchart.cc/ansoncloud8/am-tunnel.svg?variant=adaptive)](https://starchart.cc/ansoncloud8/am-tunnel)
 
 ## 已适配自适应订阅内容
    - [v2rayN](https://github.com/2dust/v2rayN)
